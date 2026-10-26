@@ -1,0 +1,146 @@
+name: David Zabala Granados
+headline: Desarrollador Frontend · React.js / Next.js / TypeScript
+email: d.zgr.dev@gmail.com
+phone: "+57 310 534 46 57"
+location: Villavicencio, Meta, Colombia
+linkedin: https://www.linkedin.com/in/davidzabalagranados/
+workMode: 100% remoto
+availability: Disponible de inmediato
+summary: >-
+  Desarrollador de software con más de 4 años de experiencia, especializado en
+  desarrollo full-stack con React.js, Next.js, TypeScript y Node.js. Enfocado en
+  código limpio, arquitecturas escalables y segmentación de código para optimizar
+  el rendimiento. Experiencia en integración de APIs REST y en el desarrollo de
+  interfaces accesibles, responsivas y mantenibles.
+
+experience:
+  - company: Gaffel S.A.S
+    role: Frontend Developer
+    location: México (remoto)
+    start: 2023-02
+    end: 2025-07
+    current: false
+    parallel: true
+    note: Contrato en paralelo con HEWTEC
+    stack:
+      - React.js
+      - Next.js
+      - Tailwind CSS
+      - REST APIs
+    bullets:
+      - Desarrollé interfaces dinámicas y responsivas con React.js, Next.js y Tailwind CSS, mejorando la experiencia de usuario en un 30%.
+      - Implementé una arquitectura basada en componentes reutilizables, aplicando buenas prácticas con React Hooks y gestión de estado con Context API.
+      - Colaboré con el equipo de backend en la integración de APIs REST, asegurando una comunicación eficiente y segura entre frontend y backend.
+      - Participé en el diseño y desarrollo de una aplicación web para la gestión interna de clientes y documentos, con autenticación, roles y permisos.
+      - Mantuve comunicación constante con los equipos de diseño y producto para asegurar la fidelidad visual y funcional de las interfaces.
+
+  - company: HEWTEC - Very High Technology for World S.A.S
+    role: Frontend Developer
+    location: Villavicencio, Colombia
+    start: 2021-05
+    end: 2025-12
+    current: false
+    parallel: true
+    note: Contrato en paralelo con Gaffel
+    stack:
+      - React.js
+      - Next.js
+      - JavaScript
+      - CI/CD
+    bullets:
+      - Diseñé e implementé componentes reutilizables y escalables en React.js y Next.js.
+      - Apliqué clean code, code splitting y optimización de rendimiento en el desarrollo de software.
+      - Construí módulos y procedimientos asegurando el cumplimiento de estándares técnicos, funcionales y de calidad.
+      - Desarrollé una herramienta de gestión de cookies transversal para todos los productos, garantizando el cumplimiento de normativas de consentimiento del usuario.
+      - Adopté y mejoré metodologías ágiles, CI/CD y buenas prácticas en el ciclo de desarrollo de software.
+
+education:
+  - institution: Universidad Sergio Arboleda
+    program: Curso de Desarrollo de Software
+    kind: Curso
+    location: Villavicencio, Colombia
+    start: 2021-07
+    end: 2021-12
+    note: Formación en tecnología de la información
+
+skills:
+  - label: Frontend
+    items:
+      - React.js
+      - Next.js
+      - TypeScript
+      - JavaScript (ES6+)
+      - HTML5
+      - CSS3
+      - Tailwind CSS
+  - label: Estado y datos
+    items:
+      - React Hooks
+      - Context API
+      - Redux
+      - Zustand (básico)
+  - label: Backend e integración
+    items:
+      - Node.js
+      - Express
+      - APIs REST
+      - Autenticación y roles
+  - label: Rendimiento
+    items:
+      - SSR
+      - SSG
+      - ISR
+      - Code splitting
+      - Lazy loading
+  - label: Herramientas y calidad
+    items:
+      - Git
+      - GitHub
+      - GitLab
+      - Clean code
+      - CI/CD
+      - Metodologías ágiles
+
+languages:
+  - language: Español
+    level: Nativo
+  - language: Inglés
+    level: B1
+    note: En preparación activa
+
+preferences:
+  remoteOnly: true
+  targetRoles:
+    - Frontend Developer
+    - Desarrollador Frontend
+    - React Developer
+    - Next.js Developer
+    - Full Stack Developer
+  markets:
+    - Colombia
+    - LatAm
+    - España
+    - Worldwide
+  salary: Flexible según el mercado y la modalidad remota
+  seniority:
+    - junior
+    - mid
+    - entry-friendly
+  includeKeywords:
+    - react
+    - next.js
+    - nextjs
+    - typescript
+    - frontend
+    - front-end
+    - full stack
+    - fullstack
+    - javascript
+  excludeKeywords:
+    - presencial
+    - híbrido
+    - hibrido
+    - on-site
+    - unpaid
+    - sin remuneración
+  minScore: 45

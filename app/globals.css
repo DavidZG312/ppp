@@ -1,0 +1,13 @@
+@import "tailwindcss";
+
+html {
+  color-scheme: light;
+}
+
+body {
+  background-color: #f8fafc;
+}
+
+::selection {
+  background-color: #bfdbfe;
+}
